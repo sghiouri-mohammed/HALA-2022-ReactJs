@@ -1,10 +1,11 @@
 <h1 align="center"> Hala 2022 Coupe 22 </h1>
 
-<img align="left" width="480" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/index.png"/>
-<img align="lerighft" width="480" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/index2.png"/>
-<img align="left" width="480" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/resto.png"/>
-<img align="right" width="480" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/game.png"/>
+<img align="left" width="400" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/index.png"/>
+<img align="lerighft" width="400" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/index2.png"/>
+<img align="left" width="400" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/resto.png"/>
+<img align="right" width="400" src="https://github.com/sghiouri-mohammed/HALA-2022-ReactJs/blob/master/game.png"/>
 
+<br> <br>  <br> <br>  <br> <br>  <br> <br>  <br> <br>  <br> <br> 
 
 # Getting Started with Create React App
 
